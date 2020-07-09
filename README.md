@@ -10,6 +10,11 @@ This repo contains a batch file that automates the creation of new Django projec
 6. (Optional) Adds urls.py files to each app created
 
 
+## Prerequisites
+In order to utilize this script, you have to have
+1. Python 3.* installed.
+2. Pipenv installed on your Windows computer.
+
 ## Instructions for use
 I highly doubt you will need instructions for this script. It involves a lot of prompts and provides output for every step it takes in the process
 
