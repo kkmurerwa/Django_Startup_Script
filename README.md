@@ -24,4 +24,4 @@ As usual, there is usually a different structure that every developer uses. That
       
       
 ## Licenses and et cetera
-This script is published under the [MIT License](https://github.com/angular/angular.js/blob/master/LICENSE). This grants the permission to use and manipulate the file as they see fit, without any restriction. As such, this project is available for use by any willing contribitor or developer as stipulated by the terms of the License. Contributions are very welcome.
+This script is published under the [MIT License](https://github.com/angular/angular.js/blob/master/LICENSE). This grants any willing party permission to use and manipulate the file as they see fit, without any restriction. As such, this project is available for use by any willing contribitor or developer as stipulated by the terms of the License. Contributions are very welcome.
