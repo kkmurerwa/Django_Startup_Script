@@ -18,7 +18,8 @@ In order to utilize this script, you should have;
 1. Python 3.* installed. Check out the latest version of python on the [official website](https://www.python.org/downloads/).
 2. Pipenv installed on your Windows computer. If you don't have pipenv installed on your computer, you can install it using pip, which comes bundled with Python releases. Type the following commands.
 
-    ```//Upgrade pip to ensure you have the latest version
+    ```
+    //Upgrade pip to ensure you have the latest version
     python -m pip install --upgrade pip
       
     //Install pipenv using pip
