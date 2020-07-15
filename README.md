@@ -27,7 +27,9 @@ In order to utilize this script, you should have;
 
 
 ## Instructions for use
-I highly doubt you will need instructions for this script. It involves a lot of prompts and provides output for every step it takes in the process. **However**, make sure you are in the directory you want to create the new project in. Copy the batch script into the folder and just run it from there since it creates the new project in the current directory.
+I highly doubt you will need instructions for this script. It involves a lot of prompts and provides output for every step it takes in the process. 
+
+**However**, make sure you are in the directory you want to create the new project in. Copy the batch script into the folder and just run it from there since it creates the new project in the current directory.
 
 
 ## Disclaimer
